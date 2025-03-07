@@ -41,6 +41,7 @@ Scrape the [DU bulletin](https://bulletin.du.edu/) to find all **Computer Scienc
 }
 ```
 
+
 ### 2. Scrape DU Athletics Site for Upcoming Events  
 Visit the [DU sports athletics site](https://denverpioneers.com/index.aspx) and extract event details from the **top carousel**. You need to extract:  
 - **DU Team Name**  
